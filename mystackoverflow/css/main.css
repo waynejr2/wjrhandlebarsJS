@@ -1,0 +1,27 @@
+.msg_box{
+  background-color:green;  
+  width: 300px;
+  display: inline-block;
+}
+
+.basic{
+  background-color:blue;
+  color: white;
+}	
+
+.ad{
+  background-color:green;
+  color: white;
+}
+
+.notification{
+	background-color: cyan;
+}	
+	
+.warning{
+  background-color:yellow;  
+}
+
+.critical{
+	background-color:red;
+}
